@@ -1,0 +1,8 @@
+ramfs - File System in RAM
+
+Brief: A userspace filesystem in RAM
+Author: Al Snake
+LICENSE: GPL-3
+
+Required Tools:
+	g++, cmake, make, pkg-config, libfuse3-dev fuse3

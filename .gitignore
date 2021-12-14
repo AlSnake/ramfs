@@ -1,0 +1,15 @@
+# CONFIG
+.env
+config.json
+
+# Folders
+build
+.vscode
+
+# Others
+ramfs.qt.*
+*.expand
+*.bin
+*.o
+*.d
+*.a
